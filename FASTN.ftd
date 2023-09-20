@@ -1,7 +1,7 @@
 -- import: fastn
 
--- fastn.package: As-win-das.github.io/Portfolio
-favicon: /-/As-win-das.github.io/<repo_name>/favicon.ico
+-- fastn.package: as-win-das.github.io/Portfolio
+favicon: /-/as-win-das.github.io/<repo_name>/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
@@ -12,7 +12,7 @@ favicon: /-/As-win-das.github.io/<repo_name>/favicon.ico
 
 
 
--- fastn.auto-import: As-win-das.github.io/Portfolio/FASTN/ds
--- fastn.auto-import: As-win-das.github.io/Portfolio/assets
+-- fastn.auto-import: as-win-das.github.io/Portfolio/FASTN/ds
+-- fastn.auto-import: as-win-das.github.io/Portfolio/assets
 -- fastn.auto-import: doc-site
 
