@@ -1,7 +1,7 @@
 -- import: fastn
 
 -- fastn.package: as-win-das.github.io/Portfolio
-favicon: /-/as-win-das.github.io/<repo_name>/favicon.ico
+favicon: /-/as-win-das.github.io/portfolio/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
